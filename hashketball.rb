@@ -1,17 +1,17 @@
 # Write your code here
 def game_hash
 
-hash={:Home=>{team_name:{},
-              colors:{},
-              players:[player_name:{},
-                       number:{},
-                       shoe:{},
+hash={:Home=>{team_name:"Brooklyn Nets",
+              colors:[Black,White],
+              players:[{player_name:{Alan Anderson},
+                       number:{0},
+                       shoe:{16},
                        points:{},
                        rebounds:{},
                        assists:{},
                        steals:{},
                        blocks:{},
-                       slam_dunks:{}]
+                       slam_dunks:{}}]
               },
 
       :Away=>{team_name:{},
