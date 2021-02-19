@@ -52,7 +52,7 @@ hash={:home=>{team_name:"Brooklyn Nets",
                              steals:2,
                              blocks:7,
                              slam_dunks:2},
-                             :Bismack_Biyombo=>
+                             "Bismack Biyombo"=>
                            {number:0,
                              shoe:16,
                              points:12,
@@ -61,7 +61,7 @@ hash={:home=>{team_name:"Brooklyn Nets",
                              steals:22,
                              blocks:15,
                              slam_dunks:10},
-                            :DeSagna_Diop=>
+                            "DeSagna Diop"=>
                           {number:2,
                             shoe:14,
                             points:24,
