@@ -33,7 +33,7 @@ hash={:home=>{team_name:"Brooklyn Nets",
                       blocks:1,
                       slam_dunks:15},
                       
-                    {player_name:"Mason Plumlee"
+                    {player_name:"Mason Plumlee",
                       number:1,
                       shoe:19,
                       points:26,
