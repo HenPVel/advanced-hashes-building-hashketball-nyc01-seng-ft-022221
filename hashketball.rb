@@ -15,7 +15,7 @@ hash={:Home=>{team_name:"Brooklyn Nets",
               }, #end of :home hash
 
       :Away=>{team_name:{},
-              colors:{},
+              colors:[],
               players:[{player_name:{},
                        number:{},
                        shoe:{},
