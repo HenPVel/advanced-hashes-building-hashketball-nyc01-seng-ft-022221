@@ -43,7 +43,7 @@ hash={:home=>{team_name:"Brooklyn Nets",
 
       :away=>{team_name:"Charlotte Hornets",
                     colors:["Turquoise","Purple"],
-                    players:[:Jeff_Adrien=>
+                    players:["Jeff Adrien"=>
                              {number:4,
                              shoe:18,
                              points:10,
