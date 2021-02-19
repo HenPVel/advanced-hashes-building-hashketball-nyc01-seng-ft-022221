@@ -3,7 +3,7 @@ def game_hash
 
 hash={:Home=>{team_name:"Brooklyn Nets",
               colors:["Black","White"],
-              players:[Alan Anderson=>
+              players:[:Alan_Anderson=>
                        {number:0,
                        shoe:16,
                        points:22,
@@ -12,7 +12,7 @@ hash={:Home=>{team_name:"Brooklyn Nets",
                        steals:3,
                        blocks:1,
                        slam_dunks:1},
-                       Reggie Evans=>
+                       :Reggie_Evans=>
                      {number:30,
                        shoe:14,
                        points:12,
@@ -21,7 +21,7 @@ hash={:Home=>{team_name:"Brooklyn Nets",
                        steals:12,
                        blocks:12,
                        slam_dunks:7},
-                      Brook Lopez=>
+                      :Brook_Lopez=>
                     {number:11,
                       shoe:17,
                       points:17,
@@ -30,7 +30,7 @@ hash={:Home=>{team_name:"Brooklyn Nets",
                       steals:3,
                       blocks:1,
                       slam_dunks:15},
-                      Mason Plumlee=>
+                      :Mason_Plumlee=>
                     {number:1,
                       shoe:19,
                       points:26,
@@ -39,21 +39,21 @@ hash={:Home=>{team_name:"Brooklyn Nets",
                       steals:3,
                       blocks:8,
                       slam_dunks:5}]
-              }, #end of :home hash
+              }}#end of :home hash
 
-      :Away=>{team_name:"Charlotte Hornets",
-              colors:["Turquoise","Purple"],
-              players:[{player_name:{},
-                       number:{},
-                       shoe:{},
-                       points:{},
-                       rebounds:{},
-                       assists:{},
-                       steals:{},
-                       blocks:{},
-                       slam_dunks:{}}]
-            }
-     }
+    #   :Away=>{team_name:"Charlotte Hornets",
+    #           colors:["Turquoise","Purple"],
+    #           players:[{player_name:{},
+    #                    number:{},
+    #                    shoe:{},
+    #                    points:{},
+    #                    rebounds:{},
+    #                    assists:{},
+    #                    steals:{},
+    #                    blocks:{},
+    #                    slam_dunks:{}}]
+    #         }
+    #  }
 
 end
 p game_hash
