@@ -2,7 +2,7 @@
 def game_hash
 
 hash={:Home=>{team_name:"Brooklyn Nets",
-              colors:[Black,White],
+              colors:["Black","White"],
               players:[{player_name:Alan Anderson,
                        number:0,
                        shoe:16,
@@ -14,8 +14,8 @@ hash={:Home=>{team_name:"Brooklyn Nets",
                        slam_dunks:1}]
               }, #end of :home hash
 
-      :Away=>{team_name:{},
-              colors:[],
+      :Away=>{team_name:"Charlotte Hornets",
+              colors:["Turquoise","Purple"],
               players:[{player_name:{},
                        number:{},
                        shoe:{},
