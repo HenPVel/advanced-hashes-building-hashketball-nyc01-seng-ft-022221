@@ -30,7 +30,7 @@ hash={:home=>{team_name:"Brooklyn Nets",
                       steals:3,
                       blocks:1,
                       slam_dunks:15},
-                      :Mason_Plumlee=>
+                      "Mason Plumlee"=>
                     {number:1,
                       shoe:19,
                       points:26,
