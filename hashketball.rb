@@ -41,7 +41,7 @@ hash={:home=>{team_name:"Brooklyn Nets",
                       slam_dunks:5}]
               },#end of :home value
 
-      :Away=>{team_name:"Charlotte Hornets",
+      :away=>{team_name:"Charlotte Hornets",
                     colors:["Turquoise","Purple"],
                     players:[:Jeff_Adrien=>
                              {number:4,
