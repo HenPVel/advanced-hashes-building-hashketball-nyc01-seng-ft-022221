@@ -12,19 +12,19 @@ hash={:Home=>{team_name:"Brooklyn Nets",
                        steals:{},
                        blocks:{},
                        slam_dunks:{}}]
-              },
+              }, #end of :home hash
 
       :Away=>{team_name:{},
-                    colors:{},
-                    players:[player_name:{},
-                             number:{},
-                             shoe:{},
-                             points:{},
-                             rebounds:{},
-                             assists:{},
-                             steals:{},
-                             blocks:{},
-                             slam_dunks:{}]
+              colors:{},
+              players:[player_name:{},
+                       number:{},
+                       shoe:{},
+                       points:{},
+                       rebounds:{},
+                       assists:{},
+                       steals:{},
+                       blocks:{},
+                       slam_dunks:{}]
             }
      }
 
