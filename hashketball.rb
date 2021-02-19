@@ -1,7 +1,7 @@
 # Write your code here
 def game_hash
 
-hash={:Home=>{team_name:"Brooklyn Nets",
+hash={:home=>{team_name:"Brooklyn Nets",
               colors:["Black","White"],
               players:[:Alan_Anderson=>
                        {number:0,
