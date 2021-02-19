@@ -56,8 +56,8 @@ hash={:home=>{team_name:"Brooklyn Nets",
 
       :away=>{team_name:"Charlotte Hornets",
                     colors:["Turquoise","Purple"],
-                    players:["Jeff Adrien"=>
-                             {number:4,
+                    players:[{player_name:"Jeff Adrien",
+                             number:4,
                              shoe:18,
                              points:10,
                              rebounds:1,
@@ -65,8 +65,9 @@ hash={:home=>{team_name:"Brooklyn Nets",
                              steals:2,
                              blocks:7,
                              slam_dunks:2},
-                             "Bismack Biyombo"=>
-                           {number:0,
+                             
+                           {player_name:"Bismack Biyombo",
+                             number:0,
                              shoe:16,
                              points:12,
                              rebounds:4,
