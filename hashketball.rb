@@ -3,7 +3,7 @@ def game_hash
 
 hash={:home=>{team_name:"Brooklyn Nets",
               colors:["Black","White"],
-              players:[:Alan_Anderson=>
+              players:["Alan Anderson"=>
                        {number:0,
                        shoe:16,
                        points:22,
@@ -12,7 +12,7 @@ hash={:home=>{team_name:"Brooklyn Nets",
                        steals:3,
                        blocks:1,
                        slam_dunks:1},
-                       :Reggie_Evans=>
+                       "Reggie Evans"=>
                      {number:30,
                        shoe:14,
                        points:12,
