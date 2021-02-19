@@ -16,7 +16,7 @@ hash={:Home=>{team_name:"Brooklyn Nets",
 
       :Away=>{team_name:{},
               colors:{},
-              players:[player_name:{},
+              players:[{player_name:{},
                        number:{},
                        shoe:{},
                        points:{},
@@ -24,7 +24,7 @@ hash={:Home=>{team_name:"Brooklyn Nets",
                        assists:{},
                        steals:{},
                        blocks:{},
-                       slam_dunks:{}]
+                       slam_dunks:{}}]
             }
      }
 
