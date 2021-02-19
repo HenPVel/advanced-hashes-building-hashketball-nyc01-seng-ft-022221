@@ -21,7 +21,7 @@ hash={:home=>{team_name:"Brooklyn Nets",
                        steals:12,
                        blocks:12,
                        slam_dunks:7},
-                      :Brook_Lopez=>
+                      "Brook Lopez"=>
                     {number:11,
                       shoe:17,
                       points:17,
